@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jmar</h1>
-<h3 align="center">a computer science major at Georgia Tech. I like to learn how things we use on a daily work and brainstorm how they can be improved. I have interest in developing software and data science. I like to work on the backend of development and currently use Java and Python as my main languages.</h3>
+<h3 align="center">A computer science major at Georgia Tech. I like to learn how things we use on a daily work and brainstorm how they can be improved. I have interest in developing software and data science. I like to work on the functunality of projects currently use Java and Python as my main languages.</h3>
 
 - 🔭 I’m currently working on **Inventory & Trade Management Project**
-
-<h3 align="left">Connect with me:</h3>
+- 📁 Check out my previous projects
 <p align="left">
 </p>
 
