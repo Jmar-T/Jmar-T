@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jmar</h1>
 <h3 align="center">A computer science major at Georgia Tech. I like to learn how things we use on a daily work and brainstorm how they can be improved. I have interest in developing software and data science. I like to work on the functunality of projects currently use Java and Python as my main languages.</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jmar-T)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on **Inventory & Trade Management Project**
 - 📁 Check out my previous projects
