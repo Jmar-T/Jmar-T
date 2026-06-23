@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jmar Taylor</h1>
 <h3 align="center">Computer Science student at Georgia Tech specializing in AI and Modeling/Simulation.</h3>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jmar-T&show_icons=true&theme=radial" alt="Jmar's GitHub stats" />
-  </a>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jmar-T)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
